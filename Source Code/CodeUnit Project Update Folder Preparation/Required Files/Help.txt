@@ -1,0 +1,8 @@
+Click on the main button to start the operation, then select the folder containing the CodeUnit projects you want to modify (e.g. "C:\Work Projects\Completed Projects\").
+
+You will then be presented with a list of the projects in your selected folder. Simply select the relevant projects you want to update and click on the Okay button.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 10/01/2008 --
